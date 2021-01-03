@@ -1,2 +1,2 @@
-# my-blog
-我的博客
+# JackBaiBlog
+使用hugo创建我的博客
