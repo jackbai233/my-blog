@@ -13,7 +13,7 @@ hasCJKLanguage = true
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "https://i.loli.net/2021/01/03/U3zyWOe4QHXJrAw.jpg"
+  header_image = "img/post-bg-coffee.jpeg"
   SEOTitle = "JackBai的博客 | JackBai Blog"
   description = "JackBai，程序员, 开源爱好者"
   keyword = "JackBai, JackBai的博客, JackBai Blog, 博客, 个人网站, 互联网, Web, Devops, Kubernetes"
