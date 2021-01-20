@@ -2,8 +2,9 @@ baseurl = "https://www.geekby.cn"
 title = "JackBai的博客"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
-# Enable comments by entering your Disqus shortname
-disqusShortname = ""
+# 替换评论为waline
+disqusShortname = "true"
+comments = "true"
 googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
@@ -28,7 +29,7 @@ home = ["HTML", "RSS", "Algolia"]
   icpurl = "https://beian.miit.gov.cn/"
 
   # leancloud storage for page view counter
-  page_view_conter = false 
+  page_view_conter = false
   leancloud_app_id = ""
   leancloud_app_key = ""
 
