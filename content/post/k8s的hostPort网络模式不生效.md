@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "k8s hosPort网络模式不生效"
-subtitle: "k8s hosPort网络模式不生效问题定位解决"
+title: "k8s hostPort网络模式不生效"
+subtitle: "k8s hostPort网络模式不生效问题定位解决"
 description: "本文主要介绍了在k8s中，采用flannel部署网络后，当pod中容器的网络模式为`hostPort`时，其结果并未生效的问题，并就该问题进行了分析解决。"
 author:     "JackBai"
 tags:
